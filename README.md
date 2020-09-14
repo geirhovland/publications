@@ -261,3 +261,19 @@ C87: Atle Aalerud and Geir Hovland, "Benchmarking Perception Latencies in a Huma
 [[C2]](http://home.uia.no/geirh/PDF/C2.pdf) G.E. Hovland and B.J. McCarragher, ``State Transition Recognition in Robotic Assembly Using Hidden Markov Models'', Proc. of the 1995 National Conf. of the Australian Robot Association (ACRA 1995), Melbourne, 5-7 July 1995, pp.75-86.
 
 [[C1]](http://home.uia.no/geirh/PDF/C1.pdf) G.E. Hovland and B.J. McCarragher, ``A Hidden Markov Approach to the Monitoring of Robotic Assembly'', Proc. of the 6th Irish DSP and Control Colloquium, Queen's University Belfast, Belfast, 19-20 June 1995 (F. Gaston and G. Dodds eds), pp. 293-300. 
+
+## Book chapters
+
+[[B1]](http://dx.doi.org/10.1007/978-1-84800-147-3_4) T. Brog&aring;rdh and G. Hovland, "The Tau PKM Structures", in Smart Devices and Machines for Advanced Manufacturing, Eds. L. Wang and F. Xi, Springer Verlag, B1: 2008, ISBN: 978-1-84800-146-6.
+
+## Patents
+
+[[P5]](http://www.google.com/patents/US7835930) M. Antoine and G. Hovland, <em>Method of Converting a Resource into a Product</em>, Intl Pat No EP 1513085 A1, WO 2005/024535 A2, US 7835930 B2, Publ. dates 2005-2010, ABB Switzerland.
+
+[[P4]](http://www.google.co.in/patents/EP1471398A1?cl=en) E. Gallestey, G. Hovland, A. Stothert and T. von Hoff, <em>Method for Automatic Tuning of a Kalman Filter</em>, International Patent number EP 1471398 A1, Publication date 27.10.2004.
+
+[[P3]](http://www.google.com/patents/US20040117045) G. Hovland, E. Gallestey and A. Stothert, <em>Design of thick-walled components for power plants from crack-growth models</em>, Pat No 02406085.7, 25 countries, Date of Filing: Dec 10, 2002.
+
+[[P2]](http://www.google.com/patents/US20040064297) E. Gallestey, G. Hovland and T.von Hoff, <em>Estimation of process variables</em>, International Patent Numbers EP 1406136 A1 and US 2004/0064297 A1, Publication date 01.04.2004.
+
+[[P1]](http://www.google.com/patents/US7130718) S. Gunnarson, M. Norrl&#246;f, G. Hovland, U. Carlsson, T. Brog&aring;rdh, T. Svensson, S. Moberg, <em>Path Correction for an Industrial Robot</em>, Intl Pat No: 019221 75.3-2302-SE0100784, Apr 09, 2001 and US Pat No 7,130,718 B2, Oct 31, 2006.
