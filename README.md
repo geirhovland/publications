@@ -277,3 +277,9 @@ C87: Atle Aalerud and Geir Hovland, "Benchmarking Perception Latencies in a Huma
 [[P2]](http://www.google.com/patents/US20040064297) E. Gallestey, G. Hovland and T.von Hoff, <em>Estimation of process variables</em>, International Patent Numbers EP 1406136 A1 and US 2004/0064297 A1, Publication date 01.04.2004.
 
 [[P1]](http://www.google.com/patents/US7130718) S. Gunnarson, M. Norrl&#246;f, G. Hovland, U. Carlsson, T. Brog&aring;rdh, T. Svensson, S. Moberg, <em>Path Correction for an Industrial Robot</em>, Intl Pat No: 019221 75.3-2302-SE0100784, Apr 09, 2001 and US Pat No 7,130,718 B2, Oct 31, 2006.
+
+## Theses
+
+[[T2]](https://www.amazon.com/Control-Sensory-Perception-Discrete-Systems/dp/1581120702) G.E. Hovland, <em>Control of Sensory Perception for Discrete Event Systems</em>, PhD Thesis, Australian National University, 1997.
+
+[[T1]] (https://github.com/geirhovland/publications/blob/master/PDF/GH-MSc-1993-Nor.pdf) G.E. Hovland, <em>Passivity Based Observer for Robot Control</em> (in Norwegian), MSc Thesis, Department of Engineering Cybernetics, NTNU, 1993. (Conversion from DVI to PDF not 100% correct).
