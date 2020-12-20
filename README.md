@@ -282,4 +282,4 @@ C87: Atle Aalerud and Geir Hovland, "Benchmarking Perception Latencies in a Huma
 
 [[T2]](https://www.amazon.com/Control-Sensory-Perception-Discrete-Systems/dp/1581120702) G.E. Hovland, <em>Control of Sensory Perception for Discrete Event Systems</em>, PhD Thesis, Australian National University, 1997.
 
-[[T1]] (https://github.com/geirhovland/publications/blob/master/PDF/GH-MSc-1993-Nor.pdf) G.E. Hovland, <em>Passivity Based Observer for Robot Control</em> (in Norwegian), MSc Thesis, Department of Engineering Cybernetics, NTNU, 1993. (Conversion from DVI to PDF not 100% correct).
+[[T1]](https://github.com/geirhovland/publications/blob/master/PDF/GH-MSc-1993-Nor.pdf) G.E. Hovland, <em>Passivity Based Observer for Robot Control</em> (in Norwegian), MSc Thesis, Department of Engineering Cybernetics, NTNU, 1993. (Conversion from DVI to PDF not 100% correct).
