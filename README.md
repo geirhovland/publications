@@ -74,21 +74,21 @@ a 6-DOF Industrial Robot using Conformal Geometric Algebra'', Advances in Applie
 
 ## Conference publications
 
-C94: Ajit Jha, Ilya Tyapin and Geir Hovland, "Camera-Lidar Data Fusion for Autonomous Mooring Operation", IEEE ICIEA, Kristiansand, June 21-25, 2020.
+[[C94]](https://doi.org/10.1109/ICIEA48937.2020.9248089) Ajit Jha, Ilya Tyapin and Geir Hovland, "Camera-Lidar Data Fusion for Autonomous Mooring Operation", IEEE ICIEA, Kristiansand, June 21-25, 2020.
 
-C93: Joacim Dybedal and Geir Hovland, "GPU-Based Optimization of 3D Sensor Placement Considering Redundancy, Range and Field of View", IEEE ICIEA, Kristiansand, June 21-25, 2020.
+[[C93]](https://doi.org/10.1109/ICIEA48937.2020.9248170) Joacim Dybedal and Geir Hovland, "GPU-Based Optimization of 3D Sensor Placement Considering Redundancy, Range and Field of View", IEEE ICIEA, Kristiansand, June 21-25, 2020.
 
-C92: Ajit Jha, Dipendra Subedi, Per-Ove L&oslash;vsland, Ilya Tyapin, Linga Reddy Cenkeramaddi, Baltasar Beferull-Lozano and Geir Hovland, "Autonomous mooring towards autonomous maritime navigation and offshore operations", IEEE ICIEA, Kristiansand, June 21-25, 2020.
+[[C92]](https://doi.org/10.1109/ICIEA48937.2020.9248169) Ajit Jha, Dipendra Subedi, Per-Ove L&oslash;vsland, Ilya Tyapin, Linga Reddy Cenkeramaddi, Baltasar Beferull-Lozano and Geir Hovland, "Autonomous mooring towards autonomous maritime navigation and offshore operations", IEEE ICIEA, Kristiansand, June 21-25, 2020.
 
-C91: Knut Berg Kaldestad and Geir Hovland, "Laser Triangulation 3D Point Cloud Sensor with Long Range and Large Field of View", IEEE ICIEA, Kristiansand, June 21-25, 2020.
+[[C91]](https://doi.org/10.1109/ICIEA48937.2020.9248330) Knut Berg Kaldestad and Geir Hovland, "Laser Triangulation 3D Point Cloud Sensor with Long Range and Large Field of View", IEEE ICIEA, Kristiansand, June 21-25, 2020.
 
-C90: Ronny Landsverk, Jing Zhou and Geir Hovland, "Modeling of Offshore Crane and Marine Craft in Wave Motion", IEEE ICIEA, Kristiansand, June 21-25, 2020.
+[[C90]](https://doi.org/10.1109/ICIEA48937.2020.9248110) Ronny Landsverk, Jing Zhou and Geir Hovland, "Modeling of Offshore Crane and Marine Craft in Wave Motion", IEEE ICIEA, Kristiansand, June 21-25, 2020.
 
-C89: Atle Aalerud and Geir Hovland, "Dynamic Augmented Kalman Filtering for Human Motion Tracking under Occlusion Using Multiple 3D Sensors", IEEE ICIEA, Kristiansand, June 21-25, 2020.
+[[C89]](https://doi.org/10.1109/ICIEA48937.2020.9248091) Atle Aalerud and Geir Hovland, "Dynamic Augmented Kalman Filtering for Human Motion Tracking under Occlusion Using Multiple 3D Sensors", IEEE ICIEA, Kristiansand, June 21-25, 2020.
 
-C88: Joacim Dybedal and Geir Hovland, "GPU-Based Occlusion Minimisation for Optimal 3D Camera Placement Considering the Viewing Frustum and Pose", IEEE ICIEA, Kristiansand, June 21-25, 2020.
+[[C88]](https://doi.org/10.1109/ICIEA48937.2020.9248399) Joacim Dybedal and Geir Hovland, "GPU-Based Occlusion Minimisation for Optimal Placement of Multiple 3D Cameras", IEEE ICIEA, Kristiansand, June 21-25, 2020.
 
-C87: Atle Aalerud and Geir Hovland, "Benchmarking Perception Latencies in a Human-Robot Collaborative Environment", Proc. of IEEE Intl. Conference on Robotics and Automation (ICRA), Paris, France, June 2020.
+[[C87]](https://doi.org/10.1109/ICRA40945.2020.9197067) Atle Aalerud and Geir Hovland, "Benchmarking Perception Latencies in a Human-Robot Collaborative Environment", Proc. of IEEE Intl. Conference on Robotics and Automation (ICRA), Paris, France, June 2020.
 
 [[C86]](https://doi.org/10.1109/ICMIMT49010.2020.9041188) Dipendra Subedi, Ilya Tyapin and Geir Hovland, "Modeling and Analysis of Flexible Bodies Using Lumped Parameter Method", 2020 IEEE 11th International Conference on Mechanical and Intelligent Manufacturing Technologies (ICMIMT 2020), January 20-22, 2020, Cape Town, South Africa.
 
