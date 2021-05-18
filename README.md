@@ -1,5 +1,7 @@
 ## Journal publications
 
+[[J34]](https://doi.org/10.3390/robotics10020070) Dipendra Subedi, Ilya Tyapin and Geir Hovland: ”Dynamic Modeling of Planar Multi-Link Flexible Manipulators”, MDPI Robotics, May 2021.
+
 [[J33]](https://doi.org/10.1109/ACCESS.2019.2933275) Lars Ivar Hatledal, Arne Styve, Geir Hovland and Houxiang Zhang: ”A Language and Platform Independent Co-Simulation Framework Based on the Functional Mock-Up Interface”, IEEE Access, August 2019.
 
 [[J32]](http://dx.doi.org/10.4173/mic.2019.1.2) Jan Fredrik R&oslash;sjordet and Geir Hovland, ''Methods for Experimentally Determining Stiffness of a Multi-Axis Machining Centre'',
