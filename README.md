@@ -1,11 +1,12 @@
 ## Journal publications
 
+[[J35]](https://dx.doi.org/10.4173/mic.2021.2.1) Joacim Dybedal and Geir Hovland, "CNN-based People Detection in Voxel Space using Intensity Measurements and Point Cluster Flattening", MIC, Vol. 42, No. 2, 2021.
+
 [[J34]](https://doi.org/10.3390/robotics10020070) Dipendra Subedi, Ilya Tyapin and Geir Hovland: ”Dynamic Modeling of Planar Multi-Link Flexible Manipulators”, MDPI Robotics, May 2021.
 
 [[J33]](https://doi.org/10.1109/ACCESS.2019.2933275) Lars Ivar Hatledal, Arne Styve, Geir Hovland and Houxiang Zhang: ”A Language and Platform Independent Co-Simulation Framework Based on the Functional Mock-Up Interface”, IEEE Access, August 2019.
 
-[[J32]](http://dx.doi.org/10.4173/mic.2019.1.2) Jan Fredrik R&oslash;sjordet and Geir Hovland, ''Methods for Experimentally Determining Stiffness of a Multi-Axis Machining Centre'',
-MIC, Vol. 40, No. 1, 2019.
+[[J32]](http://dx.doi.org/10.4173/mic.2019.1.2) Jan Fredrik R&oslash;sjordet and Geir Hovland, ''Methods for Experimentally Determining Stiffness of a Multi-Axis Machining Centre'', MIC, Vol. 40, No. 1, 2019.
 
 [[J31]](https://doi.org/10.3390/s19071561) Atle Aalerud, Joacim Dybedal and Geir Hovland, Automatic Calibration of an Industrial RGB-D Camera Network using Retroreflective Fiducial Markers, MDPI Sensors Journal, Special Issue on Depth Sensors and 3D Vision, 2019.
 
