@@ -1,5 +1,7 @@
 ## Journal publications
 
+J36: Dipendra Subedi, Ilya Tyapin and Geir Hovland, "Static Deflection Compensation of Multi-Link Flexible Manipulators Under Gravity", IEEE Access, 2022.
+
 [[J35]](https://dx.doi.org/10.4173/mic.2021.2.1) Joacim Dybedal and Geir Hovland, "CNN-based People Detection in Voxel Space using Intensity Measurements and Point Cluster Flattening", MIC, Vol. 42, No. 2, 2021.
 
 [[J34]](https://doi.org/10.3390/robotics10020070) Dipendra Subedi, Ilya Tyapin and Geir Hovland: ”Dynamic Modeling of Planar Multi-Link Flexible Manipulators”, MDPI Robotics, May 2021.
@@ -76,6 +78,8 @@ a 6-DOF Industrial Robot using Conformal Geometric Algebra'', Advances in Applie
 [[J1]](https://github.com/geirhovland/publications/blob/master/PDF/J1.pdf) B.J. McCarragher, G. Hovland, P. Sikka, P. Aigner and D. Austin, ``Hybrid Dynamic Modelling and Control of Constrained Manipulation Systems'', IEEE Robotics and Automation Magazine, Special Issue on Discrete Event Systems, Vol. 4, No. 2, June 1997, pp. 27-44. 
 
 ## Conference publications
+
+C95: Dipendra Subedi, Ilya Tyapin and Geir Hovland, "Control of Redundant Flexible Manipulators with Redundancy Resolution", The 8th Intl. Conf. Mechatronics and Robotics Engineering, Munich, Germany, February 10-12, 2022.
 
 [[C94]](https://doi.org/10.1109/ICIEA48937.2020.9248089) Ajit Jha, Ilya Tyapin and Geir Hovland, "Camera-Lidar Data Fusion for Autonomous Mooring Operation", IEEE ICIEA, Kristiansand, June 21-25, 2020.
 
