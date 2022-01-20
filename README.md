@@ -1,6 +1,6 @@
 ## Journal publications
 
-J36: Dipendra Subedi, Ilya Tyapin and Geir Hovland, "Static Deflection Compensation of Multi-Link Flexible Manipulators Under Gravity", IEEE Access, 2022.
+[[J36]](https://doi.org/10.1109/ACCESS.2022.3144404): Dipendra Subedi, Ilya Tyapin and Geir Hovland, "Static Deflection Compensation of Multi-Link Flexible Manipulators Under Gravity", IEEE Access, 2022.
 
 [[J35]](https://dx.doi.org/10.4173/mic.2021.2.1) Joacim Dybedal and Geir Hovland, "CNN-based People Detection in Voxel Space using Intensity Measurements and Point Cluster Flattening", MIC, Vol. 42, No. 2, 2021.
 
