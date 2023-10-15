@@ -79,7 +79,9 @@ a 6-DOF Industrial Robot using Conformal Geometric Algebra'', Advances in Applie
 
 ## Conference publications
 
-C95: Dipendra Subedi, Ilya Tyapin and Geir Hovland, "Control of Redundant Flexible Manipulators with Redundancy Resolution", The 8th Intl. Conf. Mechatronics and Robotics Engineering, Munich, Germany, February 10-12, 2022.
+C96: Sébastien Wyckaert, Jan Fredrik Røsjordet, Hanne Bergstøl, Tomas Lyngroth, Andreas Auen, Teodor Aune, Dipendra Subedi, Vegard E. Sødal, Asle Pedersen and Geir E. Hovland, "Calibration of a Translational 3-DOF Parallel Kinematic Machine using Full Pose Measurements and Mechanical Adjustments", The 11th International Conference on Control, Mechatronics and Automation (ICCMA 2023), Grimstad, Norway, November 1-3, 2023.
+
+[[C95]](https://doi.org/10.1109/ICMRE54455.2022.9734097) Dipendra Subedi, Ilya Tyapin and Geir Hovland, "Control of Redundant Flexible Manipulators with Redundancy Resolution", The 8th Intl. Conf. Mechatronics and Robotics Engineering, Munich, Germany, February 10-12, 2022.
 
 [[C94]](https://doi.org/10.1109/ICIEA48937.2020.9248089) Ajit Jha, Ilya Tyapin and Geir Hovland, "Camera-Lidar Data Fusion for Autonomous Mooring Operation", IEEE ICIEA, Kristiansand, June 21-25, 2020.
 
